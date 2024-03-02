@@ -172,7 +172,7 @@
 88C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\svgo\plugins\inlineStyles.js133538237733498629 0
 90C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\nth-check\lib\esm\compile.d.ts133538237727579505 0
 117C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Declaration.js133538237741612647 0
-72C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\favicon.8b2f57bf.png133538250262359799 0
+72C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\favicon.8b2f57bf.png133538259109685606 0
 112C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@babel\highlight\node_modules\color-convert\route.js133538237718170875 0
 84C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\glob-parent\package.json133538239720597114 0
 114C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib133538237731044140 1
@@ -511,7 +511,7 @@
 109C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133538237735411044 0
 98C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\msgpackr\dist\index-no-eval.min.js.map133538237730328046 0
 91C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\caniuse-lite\data\regions\SB.js133538237757458945 0
-51C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist133538254102992174 1
+51C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist133538259110350065 1
 104C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib133538237737174620 1
 91C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\css-select\lib\esm\compile.d.ts133538237735738685 0
 89C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\posthtml-parser\dist\index.js133538237713357184 0
@@ -526,7 +526,7 @@
 96C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@parcel\core\test\fixtures\glob-like133538237726587194 1
 73C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.62406edb.js.map133538239763265775 0
 68C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\escalade133538237719064227 1
-70C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.f7626f62.css133538250262950054 0
+70C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.f7626f62.css133538259110263810 0
 112C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Atrule.js133538237739948246 0
 108C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\caniuse-lite\data\features\css-cascade-layers.js133538237740443496 0
 143C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133538237730904096 0
@@ -547,7 +547,7 @@
 97C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@swc\helpers\_\_await_async_generator133538237742960328 1
 86C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\lmdb\util\RangeIterable.js133538237740226452 0
 81C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\posthtml\package.json133538237714664992 0
-70C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\icons.21bad73c.svg133538250262284253 0
+70C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\icons.21bad73c.svg133538259109607940 0
 110C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133538237727990802 0
 95C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\css-tree\cjs\syntax\atrule\page.cjs133538237737637451 0
 92C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\regenerator-runtime\package.json133538237714664992 0
@@ -4725,7 +4725,7 @@
 93C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@swc\helpers\esm\_create_super.js133538237739852382 0
 88C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@swc\helpers\esm\_extends.js133538237740210428 0
 108C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@swc\helpers\esm\_initializer_define_property.js133538237740443496 0
-69C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.e37f48ea.js133538254102908202 0
+69C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.e37f48ea.js133538259109685606 0
 99C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@swc\helpers\esm\_is_native_function.js133538237740663108 0
 128C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser\index.js133538237735132931 0
 100C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\@swc\helpers\esm\_non_iterable_spread.js133538237740967423 0
@@ -6011,6 +6011,6 @@
 75C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\.bin\semver.ps1133538237764519094 0
 73C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\.bin\svgo.cmd133538237764534378 0
 91C:\Users\marjo\OneDrive\Desktop\Github\forkify\node_modules\.bin\update-browserslist-db.ps1133538237764534378 0
-69C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\logo.726d37a8.png133538250262284253 0
-74C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.f7626f62.css.map133538250262968905 0
-73C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.e37f48ea.js.map133538254102992174 0
+69C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\logo.726d37a8.png133538259109685606 0
+73C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.e37f48ea.js.map133538259109808367 0
+74C:\Users\marjo\OneDrive\Desktop\Github\forkify\dist\index.f7626f62.css.map133538259110289079 0
